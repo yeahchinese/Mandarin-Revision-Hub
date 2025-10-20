@@ -1,0 +1,5 @@
+{
+  "name": "Mandarin Vocabulary Flashcards & Quiz Generator",
+  "description": "An interactive web application for Year 10 students to revise Mandarin Chinese vocabulary and sentences. It features flashcard-style practice and a Gemini-powered Kahoot quiz generator to create engaging learning materials.",
+  "requestFramePermissions": []
+}
